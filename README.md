@@ -1,2 +1,1 @@
-# MyScotland
-My Scotland Website
+My Scotland Website for School
